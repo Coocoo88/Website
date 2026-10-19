@@ -1,4 +1,4 @@
-https://Coocoo88.github.io/simple-website-template/
+Http://github.com/Coocoo88/simple-website/settings/pages
 
 
 
