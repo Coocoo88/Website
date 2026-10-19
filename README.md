@@ -1,4 +1,4 @@
-https://coocoo88.github.io/simple-website/
+https://coocoo88.github.io/website/
 
 
 
